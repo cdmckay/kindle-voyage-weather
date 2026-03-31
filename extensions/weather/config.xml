@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+	<information>
+		<name>Weather Display</name>
+		<version>1.0.0</version>
+		<author>Cameron McKay</author>
+		<id>kindle-voyage-weather</id>
+	</information>
+	<menus>
+		<menu type="json" dynamic="true">menu.json</menu>
+	</menus>
+</extension>

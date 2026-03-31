@@ -1,0 +1,6 @@
+kindle/etc/weather_config.sh
+kindle/var/cache/weather/*.svg
+kindle/var/cache/weather/*.png
+kindle/var/log/*.log
+.DS_Store
+._*

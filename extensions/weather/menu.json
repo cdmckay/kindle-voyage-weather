@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "name": "Weather",
+            "priority": -1,
+            "items": [
+                {
+                    "name": "Start Weather Display",
+                    "action": "setsid /mnt/us/weather/bin/weather_display.sh",
+                    "exitmenu": true
+                },
+                {
+                    "name": "Update Screensaver Once",
+                    "action": "/mnt/us/weather/bin/update_screensaver.sh",
+                    "exitmenu": false
+                }
+            ]
+        }
+    ]
+}
